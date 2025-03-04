@@ -11,6 +11,16 @@ is_student = True
 
 # to change the data type to something else
 age = str(age)
+age += "1"
+print(age)
+
+name = bool(name)
+print(name)
+
+gpa = int(gpa)
+print(gpa)
+
+age = float(age)
 print(age)
 
 
